@@ -11,7 +11,7 @@ python pacman.py
 
 If your project can work correctly, you will see the below image. 
 
-![](/img/pacman.png)
+![](pacman.png)
 
 Next example, The simplest agent in `searchAgents.py` is called the `GoWestAgent`, which always goes West (a trivial reflex agent). This agent can occasionally win:
 
