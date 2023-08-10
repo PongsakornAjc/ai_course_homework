@@ -2,7 +2,7 @@
 \*\*\*This homework is the part of CS 188 Summer 2023 [https://inst.eecs.berkeley.edu/~cs188/su23/]
 
 # 0. Download Project Environment
-Please download pacman project from this link(https://drive.google.com/file/d/1mDc5b_jqjHJ3d1wuMvOtuzBEaQpk423E/view?usp=sharing) 
+Please download pacman project from this link(https://github.com/PongsakornAjc/ai_course_homework/archive/refs/heads/homework_1.zip) 
 After extract zip file please use following command to test your project work properly
 
 ```PowerShell:
